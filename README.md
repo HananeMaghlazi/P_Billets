@@ -1,4 +1,4 @@
-# P_Billets: Détectez des faux billets avec R ou Python
+# P_Billets: Détectez des faux billets
 
 #### Enoncé:
 
