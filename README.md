@@ -9,7 +9,7 @@ Elle souhaite mettre en place une modélisation qui serait capable d’identifie
 
 #### Mission:
 
-Construire un algorithme qui, à partir des caractéristiques géométriques d’un billet, serait capable de définir si ce dernier est un vrai ou un faux billet. ![image](https://user-images.githubusercontent.com/116921007/221381826-c6173748-396d-46df-b37d-69aa04cf6414.png)
+Construire un algorithme qui, à partir des caractéristiques géométriques d’un billet, serait capable de définir si ce dernier est un vrai ou un faux billet. 
 
 #### Livrables : 
 
