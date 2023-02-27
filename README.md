@@ -1,5 +1,7 @@
 # P_Billets: Détectez des faux billets
 
+## Dans le cadre de la formation Data Analyst : Parcours en partenariat avec l’ENSAE
+
 #### Enoncé:
 
  l’Organisation nationale de lutte contre le faux-monnayage (ONCFM)a pour objectif de mettre en place des méthodes d’identification des contrefaçons des billets en euros .
